@@ -1,4 +1,4 @@
-# introduction-to-ai-hust
+# Voice Asistant
 Bài tập lớn môn nhập môn trí tuệ nhân tạo kì 2021-1, nhóm 11.
 
 Đề tài: Voice assistant.
